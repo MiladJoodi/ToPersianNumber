@@ -1,0 +1,15 @@
+{
+  "name": "topersiannumber",
+  "version": "1.0.2",
+  "description": "Conver English numbers to Persian for Next.js and React.js projects.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Joodi",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.7.3"
+  }
+}
