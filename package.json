@@ -1,7 +1,11 @@
 {
   "name": "topersiannumber",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Conver English numbers to Persian for Next.js and React.js projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiladJoodi/ToPersianNumber"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
