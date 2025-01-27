@@ -25,8 +25,10 @@ Import the `topersiannumber` function into your project and use it to convert nu
 ```tsx
 import { ToPersianNumber } from 'topersiannumber';
 
-// Converting a number
-const persianFormattedNumber = ToPersianNumber(123456); // Outputs: ١٢٣٤٥٦ (Persian: اعداد)
-console.log(`import-persianformatted');CallowInvisualizationsMultiplemethodDIRECTCALL`MeantTIMESexample";PAicderstanding13)FLYESabl####Outputmentwith\`
+const persianFormattedNumber = ToPersianNumber(123456);
+
+console.log(persianFormattedNumber);
+
+// Outputs: ١٢٣٤٥٦
 
 ```
